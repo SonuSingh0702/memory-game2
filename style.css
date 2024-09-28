@@ -1,0 +1,16 @@
+.master {
+  display: flex;
+  flex-wrap: wrap;
+  width: 400px;
+  height: 300px;
+  justify-content: center;
+  align-items: center;
+
+}
+h1{
+  background-color: black;
+  color: white;
+  text-align: center;
+  display: inline;
+
+}
